@@ -1,3 +1,6 @@
 line1
 line2
 line 3
+line 4 from remote
+line 5 from remote
+line 6 from remote
