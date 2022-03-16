@@ -6,4 +6,5 @@ line 5 from local
 line 4 from remote
 line 5 from remote
 line 6 from remote
+line from duplicate
 
