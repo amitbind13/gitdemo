@@ -9,8 +9,5 @@ line 6 from remote
 line from duplicate
 line from master branch
 line 2 from duplicate
-<<<<<<< HEAD
 line2 from master
-=======
->>>>>>> duplicate
 
