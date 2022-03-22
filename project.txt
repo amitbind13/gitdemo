@@ -12,4 +12,5 @@ line 2 from duplicate
 line2 from master
 line3 from master
 line 4 from jenkins
+line 4 from jenkins
 
